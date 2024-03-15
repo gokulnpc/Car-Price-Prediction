@@ -93,7 +93,7 @@ elif options == 'Code':
         btn = st.download_button(
             label="Download Jupyter Notebook",
             data=file,
-            file_name="Chronic Kidney Disease Prediction.ipynb",
+            file_name="Car_Price_Prediction.ipynb",
             mime="application/x-ipynb+json"
         )
     st.write('You can download the Jupyter notebook to view the code and the model building process.')
