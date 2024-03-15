@@ -19,3 +19,9 @@ This is a simple web app to predict the price of a car based on the user inputs.
 - Model: The model of the car
 - Color: The color of the car
 - Fuel Tank Capacity: The capacity of the fuel tank
+
+<img width="960" alt="image" src="https://github.com/gokulnpc/Car-Price-Prediction/assets/105941681/2b5db79d-f53f-48d1-a1f0-019e31ab9808">
+
+<img width="960" alt="image" src="https://github.com/gokulnpc/Car-Price-Prediction/assets/105941681/0a0157e1-dd74-42b7-ad60-0226f3a0b5af">
+
+<img width="959" alt="image" src="https://github.com/gokulnpc/Car-Price-Prediction/assets/105941681/3b71620c-baa0-4db3-8e9c-8c8cc2a207ed">
